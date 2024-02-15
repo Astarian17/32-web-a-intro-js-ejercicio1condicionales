@@ -1,5 +1,4 @@
-let respuesta
-prompt ("eres hermoso?")
+let respuesta=prompt ("eres hermoso?")
 console.log("eres hermoso?")
 if (respuesta=="si")
 {console.log("es totalmente cierto")
